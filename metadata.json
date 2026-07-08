@@ -1,0 +1,6 @@
+{
+  "name": "Vehicle Rental",
+  "description": "A premium Car and Bike Rental Platform for Admins and Customers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
